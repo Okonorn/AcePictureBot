@@ -1219,3 +1219,4 @@ Kuon (utawarerumono)||Utawarerumono||http://cdn.myanimelist.net/images/character
 Mishima Akane||Kampfer||http://cdn.myanimelist.net/images/characters/3/70137.jpg
 Sangou Shizuku||Kampfer||http://cdn.myanimelist.net/images/characters/12/123317.jpg
 Senou Natsuru||Kampfer||http://cdn.myanimelist.net/images/characters/15/88585.jpg
+Nyaruko||Haiyore! Nyaruko-san||http://cdn.myanimelist.net/images/characters/2/217623.jpg
